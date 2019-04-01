@@ -1,5 +1,10 @@
 # Titans Smash
 
+<p align="center">
+  <img src="https://images-eu.ssl-images-amazon.com/images/I/911kCLOVR2L.jpg" width=200/>
+  <img src="https://16couleurs.files.wordpress.com/2015/06/taptitans03.jpg?w=720" width=215/>
+</p>
+
 Reprise du célèbre jeu de type clicker : Tap Titans, fait par 2 élèves de l'IUT Informatique, d'Aubière.
 
 Le but du jeu est simple : frapper les monstres le plus rapidement possible, pour obtenir des pièces et ainsi améliorer votre Héro.

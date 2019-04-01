@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // Page Accueil
+    <string name="app_name">Titans Smash</string>
+    <string name="boutonJouer">Jouer</string>
+    <string name="boutonRegles">Règles</string>
+    <string name="boutonOption">Options</string>
+
+
+    // Page Création du Hero
+    <string name="boutonValider">Valider</string>
+    <string name="textViewCreerHero">Choisissez le nom de votre Hero</string>
+
+    // Page Regles
+    <string name="regles_title">Règles</string>
+    <string name="regles">Les règles sont simples. Frappe les monstres aussi vite que possible
+                            et inflige le maximum de dégâts. Améliore ton Héro pour pouvoir progresser plus vite.</string>
+
+
+    // Page Options
+    <string name="option_title">Options</string>
+    <string name="optionMusique">Musique :</string>
+    <string name="optionBruitage">Bruitage :</string>
+    <string name="erreurNomJoueur">Veuillez mettre au minimum 3 caractères !!!!</string>
+    <string name="pièces">pièces</string>
+    <string name="cptMonstre">monstres tués</string>
+
+    // Monstres
+    <string name="Smeagol">Smeagol</string>
+    <string name="EyeToad">EyeToad</string>
+    <string name="MonsterMud">MonsterMud</string>
+    <string name="Knight">Knight</string>
+    <string name="BadStone">BadStone</string>
+    <string name="Cerbere_de_feu">Cerbère de feu</string>
+    <string name="Cerbere_des_flammes">Cerbère des flammes</string>
+    <string name="DinoColossal">DinoColossal</string>
+    <string name="Esprit_des_tenebres">Esprit des ténèbres</string>
+    <string name="GiantFrost">GiantFrost</string>
+    <string name="Hyene_des_enfers">Hyène des enfers</string>
+    <string name="Roi_de_la_foret">Roi de la forêt</string>
+    <string name="Lezard_de_venin">Lézard de venin</string>
+    <string name="Wendigo">Wendigo</string>
+
+
+    // Bouton amélioration Hero
+    <string name="upgradeHero">Amélioration héro\n</string>
+</resources>

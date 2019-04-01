@@ -1,0 +1,46 @@
+<resources>
+    // Page Accueil
+    <string name="app_name">Titans Smash</string>
+    <string name="boutonJouer">Play</string>
+    <string name="boutonRegles">Rules</string>
+    <string name="boutonOption">Settings</string>
+
+
+    // Page Création du Hero
+    <string name="boutonValider">Validate</string>
+    <string name="textViewCreerHero">Choose the name of your Hero</string>
+
+    // Page Regles
+    <string name="regles_title">Rules</string>
+    <string name="regles">Rules are simple. Hit monsters as fast as possible
+                            and do maximum of damage. Improve your Hero to progress faster.</string>
+
+
+    // Page Options
+    <string name="option_title">Options</string>
+    <string name="optionMusique">Music :</string>
+    <string name="optionBruitage">Sound effects :</string>
+    <string name="erreurNomJoueur">Please put at least 3 characters !!!!</string>
+    <string name="pièces">coins</string>
+    <string name="cptMonstre">monsters killed</string>
+
+    // Monstres
+    <string name="Smeagol">Smeagol</string>
+    <string name="EyeToad">EyeToad</string>
+    <string name="MonsterMud">MonsterMud</string>
+    <string name="Knight">Knight</string>
+    <string name="BadStone">BadStone</string>
+    <string name="Cerbere_de_feu">Fire Cerberus</string>
+    <string name="Cerbere_des_flammes">Cerberus of flames</string>
+    <string name="DinoColossal">DinoColossal</string>
+    <string name="Esprit_des_tenebres">Spirit of darkness</string>
+    <string name="GiantFrost">GiantFrost</string>
+    <string name="Hyene_des_enfers">Hyena of the Hell</string>
+    <string name="Roi_de_la_foret">King of the forest</string>
+    <string name="Lezard_de_venin">Venom lizard</string>
+    <string name="Wendigo">Wendigo</string>
+
+
+    // Bouton amélioration Hero
+    <string name="upgradeHero">Hero Improvement\n</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="iut.android.titansmash">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_titans_smash"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/icon_titans_smash_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".AfficherPartie"/>
+        <activity android:name=".CreerJoueur"/>
+        <activity android:name=".Options"/>
+        <activity android:name=".Regles"/>
+
+    </application>
+
+</manifest>

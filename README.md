@@ -25,3 +25,10 @@ Pour cela, mettez l'APK sur votre téléphone, puis ouvrez le fichier. Le jeu s'
 ---
 
 Amusez-vous bien !!
+
+
+<br/>
+Développeurs :
+
+    - BECOUZE Florent
+    - BASSINET Dylan
